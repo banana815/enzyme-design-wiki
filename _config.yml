@@ -1,0 +1,17 @@
+title: "酶设计与合成化学研究 Wiki"
+description: "酶催化设计、AI/ML方法、合成化学与科研方法论的思考与调研"
+remote_theme: just-the-docs/just-the-docs
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 5
+heading_anchors: true
+aux_links:
+  "GitHub 仓库":
+    - "https://github.com/banana815/enzyme-design-wiki"
+back_to_top: true
+back_to_top_text: "回到顶部"
+color_scheme: light
+footer_content: "© 2026 — 基于个人研究笔记编译，采用 just-the-docs 主题。"
